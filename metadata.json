@@ -1,0 +1,5 @@
+{
+  "name": "HR Screener AI",
+  "description": "An advanced hiring assistant that analyzes job descriptions and candidate resumes to provide structured extraction, semantic matching, ranking, and bias detection. It helps recruiters make informed decisions by scoring candidates on multiple factors and providing detailed reports.",
+  "requestFramePermissions": []
+}
